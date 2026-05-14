@@ -1,0 +1,3 @@
+2.
+O método .get(palavra, "Sentimento não identificado no dicionário.") retorna o valor padrão (segundo argumento) 
+quando a chave não existe, sem lançar exceção. O programa continua executando normalmente.

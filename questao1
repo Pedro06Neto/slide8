@@ -1,0 +1,6 @@
+1.
+lower() converte a entrada do usuário para letras minúsculas, garantindo que "Alegria", "ALEGRIA" e "alegria"
+ sejam tratadas igualmente na busca do dicionário.
+
+strip() remove espaços em branco acidentais no início e no fim da string digitada, evitando erros de chave não
+ encontrada por espaços invisíveis.
